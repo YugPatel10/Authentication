@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import { useAuth0 } from '@auth0/auth0-react'; 
 
 export const Profile = () => {
